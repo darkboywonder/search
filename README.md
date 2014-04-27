@@ -7,4 +7,4 @@ Search very simply impliments distro code in an effort to generate random number
 
 This set of code also introduces the abilities of creating, or in this case modifying, the Makefile that compiles the code.
 
-This program was configured for the purpose of solving one of two problems apart of problem set 3 of cs50.
+This program was configured for the purpose of solving a problem set from an EDX course.
